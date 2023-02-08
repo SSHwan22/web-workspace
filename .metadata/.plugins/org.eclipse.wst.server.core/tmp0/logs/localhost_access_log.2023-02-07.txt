@@ -43,3 +43,5 @@
 0:0:0:0:0:0:0:1 - - [07/Feb/2023:15:11:26 +0900] "GET /servlet/views/requestTest_GET.html HTTP/1.1" 200 1007
 0:0:0:0:0:0:0:1 - - [07/Feb/2023:15:13:05 +0900] "GET /servlet/views/requestTest_GET.html HTTP/1.1" 200 1056
 0:0:0:0:0:0:0:1 - - [07/Feb/2023:15:14:36 +0900] "GET /servlet/views/requestTest_GET.html HTTP/1.1" 200 1010
+192.168.30.181 - - [07/Feb/2023:15:17:46 +0900] "GET /servlet/views/requestTest_GET.html HTTP/1.1" 200 1010
+192.168.30.181 - - [07/Feb/2023:15:17:46 +0900] "GET /favicon.ico HTTP/1.1" 404 818
